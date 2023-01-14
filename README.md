@@ -1,0 +1,2 @@
+Desarrollo proyecto en NodeJS
+Proyecto Full Stack en NodeJS utilizando como motor de base de datos mongoDB, La aplicacion cuenta con registro, login y una crud basica. Se utilizaron librerias como express, cors, morgan, mongoose, entre otros.
